@@ -25,12 +25,15 @@ La prueba dinámica se centra en ejecutar el software y observar su comportamien
 La prueba estática se realiza sin ejecutar el programa. Consiste en revisar y analizar el código fuente, documentos y otros artefactos relacionados con el software para identificar posibles errores, defectos o mejoras. 
 
 Y tiene una estrategia llamada cajas.
+
 -Pruebas de Caja Negra:
+
 Objetivo: Evaluar la funcionalidad del software sin conocer su implementación interna.
 Enfoque: Se centra en las entradas y salidas del sistema.
 Tipos: Pruebas funcionales, de integración, de sistema.
 
 -Pruebas de Caja blanca:
+
 Objetivo: Evaluar la estructura interna del código y la lógica.
 Enfoque: Se analiza el código fuente y se prueba la lógica interna del programa.
 Tipos: Pruebas unitarias, de integración, de camino, de flujo de datos.
