@@ -303,8 +303,6 @@ Capacidad del producto para interactuar y operar eficientemente con otros sistem
 Importancia: Garantiza la integración sin problemas con otros sistemas, mejorando la colaboración y la compatibilidad.
 
 
-REALIZADO POR 
-##### ANA RUANO
 
 
 
